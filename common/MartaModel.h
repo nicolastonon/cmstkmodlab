@@ -16,6 +16,7 @@
 #include <string>
 #include <array>
 #include <tuple>
+#include <map>
 
 #include <QString>
 #include <QStringList>
